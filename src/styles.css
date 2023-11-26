@@ -1,4 +1,7 @@
 body {
     background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49448");
 }
-  
+
+* {
+    box-sizing: border-box;
+}
